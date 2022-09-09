@@ -1,0 +1,4 @@
+Winning Submission
+
+https://www.kaggle.com/competitions/google-quest-challenge/discussion/129840
+https://github.com/oleg-yaroshevskiy/quest_qa_labeling
